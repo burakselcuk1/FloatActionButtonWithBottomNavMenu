@@ -9,13 +9,15 @@
         android:title="Best Deal"
         android:icon="@drawable/ic_baseline_add_circle_24"/>
 
-    <item
-        android:id="@+id/myBagFragment"
-        android:title="Basket"
-     />
 
     <item
-        android:id="@+id/myBagFragment2"
+        android:id="@+id/myBagFragment444"
+        android:title=""
+        />
+
+
+    <item
+        android:id="@+id/myBagFragment"
         android:title="Basket"
         android:icon="@drawable/ic_baseline_add_circle_24"/>
 
